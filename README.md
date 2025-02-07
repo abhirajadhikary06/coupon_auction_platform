@@ -1,5 +1,8 @@
 # 🎉 Coupon Auction Platform 🎉
 
+![Coupon Auction Platform Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZxM3A4NWVicjMwc215N25sbDhxZWFyZ3c5eDZmcDBrcWR2MnhxaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8hn8SROAxffok1OJQ7/giphy.gif)
+
+
 Welcome to the **Coupon Auction Platform**! 🌟 This project is a dynamic web application that allows users to bid on exclusive coupons and discounts in an auction-style format. Whether you're looking to save money or just love the thrill of bidding, this platform has something for everyone! 🚀🌊
 
 ---
